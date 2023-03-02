@@ -1,2 +1,3 @@
-# About
-About Himanshu Tiwari
+### Hi there 👋
+* 👂 My name is Himanshu Tiwari
+
