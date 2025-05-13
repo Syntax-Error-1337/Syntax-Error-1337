@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/himanshu-tiwari-44107a195/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/himanshutiwari5" target="_blank">
+  <a href="https://twitter.com/Syntax-Error-1337" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://himanshu.pro/" target="_blank">
@@ -58,7 +58,7 @@
     </td>
     <td width="40%" align="center">
       <!-- Key skills/focus areas depicted as a chart -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshutiwari5&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-Error-1337&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%"/>
     </td>
   </tr>
 </table>
@@ -147,14 +147,14 @@
 
   
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshutiwari5&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syntax-Error-1337&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <br>
 
 <!-- Animated Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshutiwari5&bg_color=1a1b27&color=a9fef7&line=38bdae&point=f8d847&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syntax-Error-1337&bg_color=1a1b27&color=a9fef7&line=38bdae&point=f8d847&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
 </div>
 
 <!-- Animated Separator -->
@@ -195,12 +195,12 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- Project 1 -->
   <a href="https://cloudguard.pro" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshutiwari5&repo=cloudguard&theme=radical&hide_border=true" alt="CloudGuard.PRO"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-Error-1337&repo=cloudguard&theme=radical&hide_border=true" alt="CloudGuard.PRO"/>
   </a>
   
   <!-- Project 2 -->
   <a href="https://collabnation.io" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshutiwari5&repo=collabnation&theme=radical&hide_border=true" alt="CollabNation"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-Error-1337&repo=collabnation&theme=radical&hide_border=true" alt="CollabNation"/>
   </a>
 </div>
 
