@@ -146,7 +146,7 @@
 
   
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syntax-Error-1337&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Syntax-Error-1337&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <br>
