@@ -143,7 +143,8 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshutiwari5&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  [![Syntax-Error-1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syntax-Error-1337&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
   
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshutiwari5&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
