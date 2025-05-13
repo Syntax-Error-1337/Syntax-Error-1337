@@ -10,7 +10,7 @@
   </a>
 
   <!-- Animated View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=himanshutiwari5&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+ ![Profile Views](https://komarev.com/ghpvc/?username=Syntax-Error-1337&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 </div>
 
 <br/>
