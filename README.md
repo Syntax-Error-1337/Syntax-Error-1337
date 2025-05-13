@@ -146,7 +146,7 @@
 
   
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Syntax-Error-1337&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Syntax-Error-1337&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 <br>
