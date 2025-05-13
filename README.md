@@ -145,9 +145,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Syntax-Error-1337&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 
   
-  <!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Syntax-Error-1337&theme=radical)](https://git.io/streak-stats)
-</div>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Syntax-Error-1337&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 
 <br>
 
