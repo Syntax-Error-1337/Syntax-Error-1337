@@ -1,287 +1,129 @@
 <div align="center">
-  <!-- Animated Header with Particle Background -->
+  <!-- Animated Particle Header -->
   <a href="https://himanshu.pro/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Himanshu%20Tiwari&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header" width="100%"/>
-  </a>
-  
-  <!-- Animated Typing Text -->
-  <a href="https://himanshu.pro/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=DevOps+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Architect+%E2%98%81%EF%B8%8F;Tech+Blogger+%F0%9F%93%9D;Open+Source+Contributor+%F0%9F%8C%8F" alt="Typing Animation" />
+    <img src="https://github.com/himanshutiwari5/himanshutiwari5/blob/main/assets/particle-header.svg?raw=true" alt="Animated Header" width="100%"/>
   </a>
 
-  <!-- Animated View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=himanshutiwari5&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <!-- Matrix-style Typing Animation -->
+  <a href="https://himanshu.pro/">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&height=50&lines=DevOps+Architect%F0%9F%9A%80;Cloud+Native+Developer☁️;Full+Stack+Engineer%F0%9F%92%BB;AI+Enthusiast%F0%9F%A4%96;Open+Source+Advocate%F0%9F%8C%8F" alt="Typing Animation" />
+  </a>
+
+  <!-- Glowing View Counter -->
+  <img src="https://komarev.com/ghpvc/?username=himanshutiwari5&style=flat-square&color=7E3ACE&label=PROFILE+VISITORS&animation=glow" alt="Profile Views"/>
 </div>
 
 <br/>
 
-<!-- Animated Social Media Buttons with Hover Effects -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/himanshu-tiwari-44107a195/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<!-- Floating Social Links -->
+<div align="center" class="social-container">
+  <a href="https://www.linkedin.com/in/himanshu-tiwari-44107a195/" target="_blank" class="social-link">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e76a8&animation=float" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/himanshutiwari5" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://twitter.com/himanshutiwari5" target="_blank" class="social-link">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&animation=float" alt="Twitter"/>
   </a>
-  <a href="https://himanshu.pro/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:contact@himanshu.pro">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://blog.himanshu.pro" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <a href="https://himanshu.pro/" target="_blank" class="social-link">
+    <img src="https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white&labelColor=FF4088&animation=float" alt="Portfolio"/>
   </a>
 </div>
 
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
-</p>
-
-<!-- About Me Section with Animation -->
-<h2 align="center">📌 About Me</h2>
-
+<!-- Animated Wave Separator -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="350" height="220" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
+  <img src="https://github.com/himanshutiwari5/himanshutiwari5/blob/main/assets/wave-separator.svg?raw=true" width="100%" alt="wave separator"/>
 </div>
 
-<table align="center" width="100%" style="margin-top: 20px;">
+<!-- About Section with Floating Animation -->
+<h2 align="center">🚀 About Me</h2>
+
+<div align="center">
+  <img src="https://github.com/himanshutiwari5/himanshutiwari5/blob/main/assets/space-astronaut.gif?raw=true" alt="Coding Animation" width="300" style="border-radius: 50%; box-shadow: 0 0 30px #7E3ACE; animation: float 6s ease-in-out infinite;"/>
+</div>
+
+<table align="center" width="90%">
   <tr>
     <td width="60%" valign="top">
-      <p>I'm a passionate DevOps Engineer and Full Stack Developer who thrives on building scalable cloud solutions and optimizing development workflows. With expertise spanning cloud platforms, container orchestration, and modern web technologies, I help organizations achieve seamless CI/CD pipelines and robust infrastructure.</p>
-      <p>My mission is to bridge the gap between development and operations, creating efficient, secure, and automated systems that empower teams to deliver value faster.</p>
-      <p>Currently building <a href="https://cloudguard.pro">CloudGuard.PRO</a> and leading <a href="https://collabnation.io">CollabNation</a> 🚀</p>
+      <p align="center" style="font-size: 1.1em; line-height: 1.6;">
+        Cloud-native architect with a passion for building scalable systems and automating everything 🤖<br><br>
+        🔭 Currently orchestrating Kubernetes clusters at hyperscale<br>
+        🌱 Exploring AIOps and MLOps integration in CI/CD pipelines<br>
+        💡 Open source contributor to CNCF projects<br>
+        🚀 Building next-gen developer tools at <a href="https://cloudguard.pro" style="color: #7E3ACE; text-decoration: none;">CloudGuard.PRO</a><br><br>
+        <em>"Automation is the bridge between ideas and impact"</em>
+      </p>
     </td>
     <td width="40%" align="center">
-      <!-- Key skills/focus areas depicted as a chart -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshutiwari5&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshutiwari5&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=7E3ACE" alt="Top Languages" width="100%"/>
     </td>
   </tr>
 </table>
 
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separator" width="100%">
-</p>
-
-<!-- Tech Stack with Animation -->
-<h2 align="center">🛠️ Tech Stack & Expertise</h2>
-
-<details open>
-  <summary><b>☁️ Cloud & DevOps</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-    <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-    <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-    <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-    <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-    <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  </p>
-</details>
-
-<details open>
-  <summary><b>💻 Development</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>🔧 Tools & Platforms</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-    <img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-    <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  </p>
-</details>
-
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
-</p>
-
-<!-- GitHub Stats with Animation -->
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+<!-- Animated Tech Stack Grid -->
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
-  <!-- 3D Contribution Calendar -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,jenkins,githubactions,prometheus,grafana&theme=dark&perline=6" alt="DevOps Tools" style="margin: 20px 0;"/>
+  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,py,go,rust,mongodb,postgres,redis,nginx,linux&theme=dark&perline=6" alt="Development Stack" style="margin: 20px 0;"/>
+</div>
+
+<!-- Animated GitHub Stats -->
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 90%; margin: 0 auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshutiwari5&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=7E3ACE&icon_color=7E3ACE" alt="GitHub Stats" style="border-radius: 15px;"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshutiwari5&theme=radical&hide_border=true&background=1a1b27&stroke=7E3ACE" alt="GitHub Streak" style="border-radius: 15px;"/>
+</div>
+
+<div align="center" style="margin: 40px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshutiwari5&bg_color=1a1b27&color=a9fef7&line=7E3ACE&point=f8d847&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
+</div>
+
+<!-- 3D Contribution Calendar -->
+<div align="center">
   <picture>
     <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar">
   </picture>
-  
-  <!-- Add a note about the 3D contribution calendar -->
-  <p><i>👆 3D contribution calendar powered by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a></i></p>
+  <p><i>✨ 3D contribution visualization powered by <a href="https://github.com/yoshi389111/github-profile-3d-contrib" style="color: #7E3ACE;">github-profile-3d-contrib</a></i></p>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshutiwari5&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshutiwari5&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
+<!-- Project Showcase Carousel -->
+<h2 align="center">🌟 Featured Projects</h2>
 
-<br>
-
-<!-- Animated Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshutiwari5&bg_color=1a1b27&color=a9fef7&line=38bdae&point=f8d847&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
-</div>
-
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separator" width="100%">
-</p>
-
-<!-- Current Focus with Animation -->
-<h2 align="center">🎯 Current Focus Areas</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <!-- Focus Area 1 -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Focus-Cloud%20Security-blue?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Security"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 40px 0;">
+  <a href="https://github.com/himanshutiwari5/cloudguard" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshutiwari5&repo=cloudguard&theme=radical&show_owner=true&bg_color=1a1b27&title_color=7E3ACE" alt="CloudGuard" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   
-  <!-- Focus Area 2 -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Focus-AIOps%20Integration-purple?style=for-the-badge&logo=openaihttps://ibb.co/5jGLMNk&logoColor=white" alt="AIOps Integration"/>
-  </a>
-  
-  <!-- Focus Area 3 -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Focus-Web3%20Development-green?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 Development"/>
-  </a>
-  
-  <!-- Focus Area 4 -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Focus-Serverless%20Architectures-orange?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Serverless Architectures"/>
+  <a href="https://github.com/himanshutiwari5/collabnation" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshutiwari5&repo=collabnation&theme=radical&show_owner=true&bg_color=1a1b27&title_color=7E3ACE" alt="CollabNation" style="border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 
-<br>
+<!-- Animated Contact Section -->
+<h2 align="center">💌 Let's Connect!</h2>
 
-<!-- Project Cards with Animation -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <!-- Project 1 -->
-  <a href="https://cloudguard.pro" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshutiwari5&repo=cloudguard&theme=radical&hide_border=true" alt="CloudGuard.PRO"/>
-  </a>
-  
-  <!-- Project 2 -->
-  <a href="https://collabnation.io" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshutiwari5&repo=collabnation&theme=radical&hide_border=true" alt="CollabNation"/>
-  </a>
-</div>
-
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
-</p>
-
-<!-- Latest Blog Posts with Animation -->
-<h2 align="center">📝 Latest Blog Posts</h2>
-
-<div align="center">
-  <!-- This section can be dynamically updated using GitHub Actions -->
-  <!-- BLOG-POST-LIST:START -->
-  <a href="https://blog.himanshu.pro/post1" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Blog-Securing%20Kubernetes%20Clusters%20in%20Production-blue?style=flat-square&logo=medium&logoColor=white" alt="Blog Post"/>
-  </a>
-  <br>
-  <a href="https://blog.himanshu.pro/post2" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Blog-Building%20Scalable%20Microservices%20with%20AWS%20ECS-green?style=flat-square&logo=medium&logoColor=white" alt="Blog Post"/>
-  </a>
-  <br>
-  <a href="https://blog.himanshu.pro/post3" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Blog-Automating%20Infrastructure%20with%20Terraform%20and%20GitHub%20Actions-orange?style=flat-square&logo=medium&logoColor=white" alt="Blog Post"/>
-  </a>
-  <!-- BLOG-POST-LIST:END -->
-  
-  <p><a href="https://blog.himanshu.pro" target="_blank">➡️ More blog posts</a></p>
-</div>
-
-<!-- Skills Progression Bar -->
-<h2 align="center">🔥 Skill Progression</h2>
-
-<div align="center">
-  <!-- DevOps Skills -->
-  <h4>DevOps</h4>
-  <img src="https://progress-bar.dev/95/?title=CI/CD&width=300&color=3498db" alt="CI/CD">
-  <img src="https://progress-bar.dev/90/?title=Cloud%20Infrastructure&width=300&color=2ecc71" alt="Cloud Infrastructure">
-  <img src="https://progress-bar.dev/85/?title=Containerization&width=300&color=9b59b6" alt="Containerization">
-  
-  <!-- Development Skills -->
-  <h4>Development</h4>
-  <img src="https://progress-bar.dev/90/?title=Backend&width=300&color=e74c3c" alt="Backend">
-  <img src="https://progress-bar.dev/85/?title=Frontend&width=300&color=f39c12" alt="Frontend">
-  <img src="https://progress-bar.dev/80/?title=Database%20Design&width=300&color=16a085" alt="Database Design">
-</div>
-
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separator" width="100%">
-</p>
-
-<!-- Get In Touch with Animation -->
-<h2 align="center">📫 Let's Connect & Build Something Amazing!</h2>
-
-<div align="center">
-  <p>I'm always open to collaborating on exciting projects and innovative ideas. Feel free to reach out for discussions on DevOps, cloud architecture, or full-stack development!</p>
-  
+<div align="center" style="margin: 40px 0;">
   <a href="https://calendly.com/himanshutiwari/30min" target="_blank">
-    <img src="https://img.shields.io/badge/Schedule%20a%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Meeting"/>
+    <img src="https://img.shields.io/badge/Schedule_Call-7E3ACE?style=for-the-badge&logo=google-meet&logoColor=white&labelColor=1a1b27&animation=pulse" alt="Schedule Call"/>
+  </a>
+  <br><br>
+  <a href="mailto:contact@himanshu.pro">
+    <img src="https://img.shields.io/badge/Email_Me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1b27&animation=shake" alt="Email"/>
   </a>
 </div>
 
-<br>
-
-<!-- Fun Coding Animation at Bottom -->
+<!-- Animated Footer -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" alt="Coding Cat"/>
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500" alt="Quote"/>
+  <img src="https://github.com/himanshutiwari5/himanshutiwari5/blob/main/assets/particle-footer.svg?raw=true" width="100%" alt="Animated Footer"/>
 </div>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer"/>
-</div>
-
-<!-- Add this to your README to automatically update your 3D contributions calendar -->
-<!--
-### 🔄 Automated Updates
-This profile is automatically updated with:
-- Latest blog posts using GitHub Actions workflow
-- 3D contribution calendar updated daily
-- Dynamic project highlights based on pinned repositories
--->
+<!-- Custom CSS Animation Reference (for profile viewers) -->
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+    100% { transform: translateY(0px); }
+  }
+</style>
