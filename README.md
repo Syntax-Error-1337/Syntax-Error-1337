@@ -140,7 +140,7 @@
   <!-- Add a note about the 3D contribution calendar -->
   <p><i>👆 3D contribution calendar powered by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a></i></p>
 </div>
-
+<div>
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Syntax-Error-1337&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 
