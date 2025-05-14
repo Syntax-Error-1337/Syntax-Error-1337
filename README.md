@@ -237,22 +237,38 @@
 </div>
   
 
-<!-- Skills Progression Bar -->
+<!-- Skill Progression with Radar Chart -->
 <h2 align="center">🔥 Skill Progression</h2>
 
 <div align="center">
-  <!-- DevOps Skills -->
-  <h4>DevOps</h4>
-  <img src="https://progress-bar.dev/95/?title=CI/CD&width=300&color=3498db" alt="CI/CD">
-  <img src="https://progress-bar.dev/90/?title=Cloud%20Infrastructure&width=300&color=2ecc71" alt="Cloud Infrastructure">
-  <img src="https://progress-bar.dev/85/?title=Containerization&width=300&color=9b59b6" alt="Containerization">
-  
-  <!-- Development Skills -->
-  <h4>Development</h4>
-  <img src="https://progress-bar.dev/90/?title=Backend&width=300&color=e74c3c" alt="Backend">
-  <img src="https://progress-bar.dev/85/?title=Frontend&width=300&color=f39c12" alt="Frontend">
-  <img src="https://progress-bar.dev/80/?title=Database%20Design&width=300&color=16a085" alt="Database Design">
-</div>
+  <!-- Radar Chart for Skills -->
+  <img src="https://quickchart.io/chart?v=2.9.4&c=%7B%0A%20%20%22type%22%3A%20%22radar%22%2C%0A%20%20%22data%22%3A%20%7B%0A%20%20%20%20%22labels%22%3A%20%5B%0A%20%20%20%20%20%20%22CI%2FCD%22%2C%0A%20%20%20%20%20%20%22Cloud%20Infra%22%2C%0A%20%20%20%20%20%20%22Containerization%22%2C%0A%20%20%20%20%20%20%22Backend%22%2C%0A%20%20%20%20%20%20%22Frontend%22%2C%0A%20%20%20%20%20%20%22DB%20Design%22%2C%0A%20%20%20%20%20%20%22Security%22%2C%0A%20%20%20%20%20%20%22Monitoring%22%2C%0A%20%20%20%20%20%20%22API%20Dev%22%2C%0A%20%20%20%20%20%20%22Testing%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22datasets%22%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22label%22%3A%20%22Current%22%2C%0A%20%20%20%20%20%20%20%20%22data%22%3A%20%5B95%2C%2090%2C%2085%2C%2090%2C%2085%2C%2080%2C%2075%2C%2070%2C%2085%2C%2080%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22label%22%3A%20%22Target%22%2C%0A%20%20%20%20%20%20%20%20%22data%22%3A%20%5B100%2C%2095%2C%2095%2C%2095%2C%2090%2C%2090%2C%2090%2C%2090%2C%2095%2C%2095%5D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%0A%20%20%7D%0A%7D%0A" alt="Skill Progression Radar Chart" width="500" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
+
+  <!-- Legend for Skills -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
+    <a href="#ci-cd" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/CI%2FCD-95%25-%233498db?style=flat-square" alt="CI/CD"/>
+    </a>
+    <a href="#cloud-infra" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Cloud%20Infra-90%25-%232ecc71?style=flat-square" alt="Cloud Infrastructure"/>
+    </a>
+    <a href="#containerization" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Containerization-85%25-%239b59b6?style=flat-square" alt="Containerization"/>
+    </a>
+    <a href="#backend" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Backend-90%25-%23e74c3c?style=flat-square" alt="Backend"/>
+    </a>
+    <a href="#frontend" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Frontend-85%25-%23f39c12?style=flat-square" alt="Frontend"/>
+    </a>
+    <a href="#db-design" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/DB%20Design-80%25-%2316a085?style=flat-square" alt="Database Design"/>
+    </a>
+  </div>
+
+
+
+<p align="center"><i>Hover over skills in the legend to learn more (simulated via clicks on GitHub). Powered by <a href="https://quickchart.io">QuickChart</a>.</i></p>
 
 <!-- Animated Separator -->
 <p align="center">
