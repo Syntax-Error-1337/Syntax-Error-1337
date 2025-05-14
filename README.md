@@ -146,7 +146,7 @@
 
   
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats-weld-psi.vercel.app?user=Syntax-Error-1337&theme=radical&short_numbers=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats-weld-psi.vercel.app?user=Syntax-Error-1337&theme=radical&short_numbers=true&card_width=481" alt="GitHub Streak" height="170"/>
 </div>
 
 <br>
