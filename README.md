@@ -242,7 +242,7 @@
 
 <div align="center">
   <!-- Radar Chart for Skills -->
-  <img src="https://quickchart.io/chart?v=2.9.4&c=%7B%0A%20%20%22type%22%3A%20%22radar%22%2C%0A%20%20%22data%22%3A%20%7B%0A%20%20%20%20%22labels%22%3A%20%5B%0A%20%20%20%20%20%20%22CI%2FCD%22%2C%0A%20%20%20%20%20%20%22Cloud%20Infra%22%2C%0A%20%20%20%20%20%20%22Containerization%22%2C%0A%20%20%20%20%20%20%22Backend%22%2C%0A%20%20%20%20%20%20%22Frontend%22%2C%0A%20%20%20%20%20%20%22DB%20Design%22%2C%0A%20%20%20%20%20%20%22Security%22%2C%0A%20%20%20%20%20%20%22Monitoring%22%2C%0A%20%20%20%20%20%20%22API%20Dev%22%2C%0A%20%20%20%20%20%20%22Testing%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22datasets%22%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22label%22%3A%20%22Current%22%2C%0A%20%20%20%20%20%20%20%20%22data%22%3A%20%5B95%2C%2090%2C%2085%2C%2090%2C%2085%2C%2080%2C%2075%2C%2070%2C%2085%2C%2080%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22label%22%3A%20%22Target%22%2C%0A%20%20%20%20%20%20%20%20%22data%22%3A%20%5B100%2C%2095%2C%2095%2C%2095%2C%2090%2C%2090%2C%2090%2C%2090%2C%2095%2C%2095%5D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%0A%20%20%7D%0A%7D%0A" alt="Skill Progression Radar Chart" width="500" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
+  <img src="https://quickchart.io/chart/render/zm-38ab7ced-dc4a-40bc-a038-a5713597af06?f=.png" alt="Skill Progression Radar Chart" width="500" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
 
   <!-- Legend for Skills -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
