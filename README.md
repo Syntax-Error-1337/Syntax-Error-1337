@@ -208,27 +208,34 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
 </p>
 
-<!-- Latest Blog Posts with Animation -->
-<h2 align="center">📝 Latest Blog Posts</h2>
+<!-- Latest Research Papers with Animation -->
+<h2 align="center">📝 Latest Research Papers</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <!-- This section can be dynamically updated using GitHub Actions -->
+  <!-- RESEARCH-PAPER-LIST:START -->
+  <a href="https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Paper-Chatbots%20and%20Data%20Privacy-blue?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Paper"/>
+  </a>
+  <a href="https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Paper-Enhancing%20Container%20Security%20with%20Trivy-green?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Paper"/>
+  </a>
+  <a href="https://insights2techinfo.com/defending-against-ddos-attacks-a-comprehensive-guide-to-vddos-protection-tool/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Paper-Defending%20Against%20DDoS%20Attacks-orange?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Paper"/>
+  </a>
+  <a href="https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Paper-Demystifying%20Kubernetes%20Service%20Types-purple?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Paper"/>
+  </a>
+  <a href="https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Paper-Blockchain%20and%20Federated%20Learning%20in%20Voting-red?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Paper"/>
+  </a>
+  <!-- RESEARCH-PAPER-LIST:END -->
+</div>
 
 <div align="center">
-  <!-- This section can be dynamically updated using GitHub Actions -->
-  <!-- BLOG-POST-LIST:START -->
-  <a href="https://blog.himanshu.pro/post1" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Blog-Securing%20Kubernetes%20Clusters%20in%20Production-blue?style=flat-square&logo=medium&logoColor=white" alt="Blog Post"/>
-  </a>
-  <br>
-  <a href="https://blog.himanshu.pro/post2" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Blog-Building%20Scalable%20Microservices%20with%20AWS%20ECS-green?style=flat-square&logo=medium&logoColor=white" alt="Blog Post"/>
-  </a>
-  <br>
-  <a href="https://blog.himanshu.pro/post3" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Blog-Automating%20Infrastructure%20with%20Terraform%20and%20GitHub%20Actions-orange?style=flat-square&logo=medium&logoColor=white" alt="Blog Post"/>
-  </a>
-  <!-- BLOG-POST-LIST:END -->
-  
-  <p><a href="https://blog.himanshu.pro" target="_blank">➡️ More blog posts</a></p>
+  <p><a href="https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en" target="_blank">➡️ More research papers</a></p>
 </div>
+  
 
 <!-- Skills Progression Bar -->
 <h2 align="center">🔥 Skill Progression</h2>
