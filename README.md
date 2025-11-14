@@ -1,310 +1,339 @@
 <div align="center">
-  <!-- Animated Header with Particle Background -->
-  <a href="https://himanshu.pro/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Himanshu%20Tiwari&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header" width="100%"/>
-  </a>
-  
-  <!-- Animated Typing Text -->
-  <a href="https://himanshu.pro/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=DevOps+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Architect+%E2%98%81%EF%B8%8F;Tech+Blogger+%F0%9F%93%9D;Open+Source+Contributor+%F0%9F%8C%8F" alt="Typing Animation" />
-  </a>
 
-  <!-- Animated View Counter -->
- ![Profile Views](https://komarev.com/ghpvc/?username=Syntax-Error-1337&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+<!-- Dynamic Header with Gradient Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Himanshu%20Tiwari&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Architecting%20the%20Future%20of%20Cloud%20%26%20DevOps&descSize=20&descAlignY=55" width="100%"/>
+
+<!-- Animated Typing Effect -->
+<a href="https://himanshu.pro/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=DevOps+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%8C%8F;Tech+Innovation+Leader+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
+
+<!-- Sleek Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanshu-tiwari-44107a195/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Syntax_Error_1337"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://himanshu.pro/"><img src="https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:contact@himanshu.pro"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://blog.himanshu.pro"><img src="https://img.shields.io/badge/-Blog-12100E?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+</p>
+
+<!-- Profile Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Syntax-Error-1337&style=for-the-badge&color=blueviolet&label=VISITORS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Syntax-Error-1337?style=for-the-badge&logo=github&label=FOLLOWERS&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/badge/FOCUS-DevOps%20%26%20Cloud-success?style=for-the-badge" alt="Focus"/>
+</p>
+
 </div>
+
+---
+
+## 🎯 **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```typescript
+const himanshu = {
+    role: "DevOps Engineer & Full Stack Developer",
+    location: "Building the future, one deployment at a time 🌍",
+    currentFocus: ["Cloud Architecture", "AIOps", "Web3"],
+    learning: ["Serverless Patterns", "GitOps", "Platform Engineering"],
+    
+    philosophy: "Automate everything, optimize relentlessly, innovate constantly",
+    
+    workingOn: {
+        primary: "CloudGuard.PRO - Cloud Security Platform",
+        secondary: "CollabNation - Developer Collaboration Hub"
+    },
+    
+    askMeAbout: [
+        "Cloud Infrastructure", "CI/CD Pipelines", "Kubernetes",
+        "Microservices", "System Design", "DevOps Culture"
+    ],
+    
+    funFact: "I debug production issues faster than I make coffee ☕"
+};
+```
+
+**🚀 Mission:** Bridging the gap between development and operations to create resilient, scalable, and efficient cloud-native solutions that empower teams to ship faster and safer.
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<details open>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,kubernetes,docker,ansible,jenkins,prometheus,grafana&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>💻 Development Stack</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,react,nextjs,nodejs,express,tailwind,mongodb,postgres,redis&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,nginx,rabbitmq,elasticsearch,postman&theme=dark" />
+</p>
+</details>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syntax-Error-1337&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-Error-1337&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syntax-Error-1337&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syntax-Error-1337&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Syntax-Error-1337&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</p>
+
+---
+
+## 🎯 **Current Focus**
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🔐 Cloud Security**
+<br/>
+<img src="https://img.shields.io/badge/Focus-High-brightgreen?style=for-the-badge"/>
+<br/>
+Implementing zero-trust architectures and automated security scanning
+
+</td>
+<td align="center" width="50%">
+
+**🤖 AIOps Integration**
+<br/>
+<img src="https://img.shields.io/badge/Focus-High-brightgreen?style=for-the-badge"/>
+<br/>
+Leveraging AI for intelligent monitoring and incident response
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**🌐 Web3 Development**
+<br/>
+<img src="https://img.shields.io/badge/Focus-Medium-yellow?style=for-the-badge"/>
+<br/>
+Exploring decentralized infrastructure and blockchain integration
+
+</td>
+<td align="center" width="50%">
+
+**⚡ Serverless Architectures**
+<br/>
+<img src="https://img.shields.io/badge/Focus-Medium-yellow?style=for-the-badge"/>
+<br/>
+Building cost-effective, auto-scaling serverless solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🛡️ [CloudGuard.PRO](https://cloudguard.pro)
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+
+**Cloud Security Platform**
+
+Advanced security monitoring and compliance automation for multi-cloud environments. Real-time threat detection with AI-powered analytics.
+
+`AWS` `Azure` `Security` `Python` `Go`
+
+</td>
+<td width="50%" align="center">
+
+### 🤝 [CollabNation](https://collabnation.io)
+
+<img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge" />
+
+**Developer Collaboration Hub**
+
+Next-gen platform for remote team collaboration with integrated DevOps workflows and real-time pair programming.
+
+`React` `Node.js` `WebRTC` `Kubernetes`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📝 **Latest Research & Articles**
+
+<div align="center">
+
+| Research Area | Publication | Status |
+|:---:|:---:|:---:|
+| 🤖 **Chatbots & Data Privacy** | [Read Paper](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en) | Published |
+| 🔒 **Container Security with Trivy** | [Read Paper](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en) | Published |
+| 🛡️ **DDoS Attack Prevention** | [Read Article](https://insights2techinfo.com/defending-against-ddos-attacks-a-comprehensive-guide-to-vddos-protection-tool/) | Published |
+| ☸️ **Kubernetes Service Types** | [Read Paper](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en) | Published |
+| 🗳️ **Blockchain in Voting Systems** | [Read Paper](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en) | Published |
+
+[**📚 View All Publications →**](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en)
+
+</div>
+
+---
+
+## 💼 **Professional Expertise**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure" /><br/>
+<b>Cloud Architecture</b><br/>
+Multi-cloud solutions<br/>
+Cost optimization<br/>
+High availability
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform" /><br/>
+<b>DevOps</b><br/>
+CI/CD pipelines<br/>
+Infrastructure as Code<br/>
+Container orchestration
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react,nodejs,python" /><br/>
+<b>Development</b><br/>
+Full stack applications<br/>
+Microservices<br/>
+API design
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,jenkins" /><br/>
+<b>Monitoring</b><br/>
+Observability<br/>
+Log aggregation<br/>
+Performance tuning
+</td>
+</tr>
+</table>
+
+---
+
+## 🎨 **Skill Proficiency**
+
+<div align="center">
+
+```
+CI/CD & Automation      ████████████████████░   95%  [5+ years]
+Cloud Infrastructure    ██████████████████░░░   90%  [5+ years]
+Container Orchestration █████████████████░░░░   88%  [4+ years]
+Backend Development     ███████████████████░░   92%  [6+ years]
+Frontend Development    █████████████████░░░░   85%  [4+ years]
+Database Design         ████████████████░░░░░   82%  [4+ years]
+```
+
+</div>
+
+---
+
+## 📫 **Let's Connect!**
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://calendly.com/himanshutiwari/30min">
+    <img src="https://img.shields.io/badge/📅_Schedule_a_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/>
+  </a>
+  <a href="mailto:contact@himanshu.pro">
+    <img src="https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <br/>
 
-<!-- Animated Social Media Buttons with Hover Effects -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/himanshu-tiwari-44107a195/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/Syntax-Error-1337" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://himanshu.pro/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:contact@himanshu.pro">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://blog.himanshu.pro" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+**💬 Open to:**
+- 🤝 Collaboration on innovative projects
+- 💡 Technical discussions and consulting
+- 🎤 Speaking opportunities and podcasts
+- 🧑‍🏫 Mentorship and knowledge sharing
+
 </div>
 
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
-</p>
-
-<!-- About Me Section with Animation -->
-<h2 align="center">📌 About Me</h2>
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="350" height="220" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
+
+### 💭 **Random Dev Quote**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="550"/>
+
 </div>
 
-<table align="center" width="100%" style="margin-top: 20px;">
-  <tr>
-    <td width="60%" valign="top">
-      <p>I'm a passionate DevOps Engineer and Full Stack Developer who thrives on building scalable cloud solutions and optimizing development workflows. With expertise spanning cloud platforms, container orchestration, and modern web technologies, I help organizations achieve seamless CI/CD pipelines and robust infrastructure.</p>
-      <p>My mission is to bridge the gap between development and operations, creating efficient, secure, and automated systems that empower teams to deliver value faster.</p>
-      <p>Currently building <a href="https://cloudguard.pro">CloudGuard.PRO</a> and leading <a href="https://collabnation.io">CollabNation</a> 🚀</p>
-    </td>
-    <td width="40%" align="center">
-      <!-- Key skills/focus areas depicted as a chart -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-Error-1337&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separator" width="100%">
-</p>
-
-<!-- Tech Stack with Animation -->
-<h2 align="center">🛠️ Tech Stack & Expertise</h2>
-
-<details open>
-  <summary><b>☁️ Cloud & DevOps</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-    <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-    <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-    <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-    <img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-    <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  </p>
-</details>
-
-<details open>
-  <summary><b>💻 Development</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>🔧 Tools & Platforms</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-    <img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-    <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  </p>
-</details>
-
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
-</p>
-
-<!-- GitHub Stats with Animation -->
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+---
 
 <div align="center">
-  <!-- 3D Contribution Calendar -->
-  <picture>
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar">
-  </picture>
-  
-  <!-- Add a note about the 3D contribution calendar -->
-  <p><i>👆 3D contribution calendar powered by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a></i></p>
-</div>
-<div>
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Syntax-Error-1337&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats-weld-psi.vercel.app?user=Syntax-Error-1337&theme=radical&short_numbers=true&card_width=481" alt="GitHub Streak" height="170"/>
+### 🐍 **Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syntax-Error-1337/Syntax-Error-1337/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syntax-Error-1337/Syntax-Error-1337/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Syntax-Error-1337/Syntax-Error-1337/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
-<br>
-
-<!-- Animated Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syntax-Error-1337&bg_color=1a1b27&color=a9fef7&line=38bdae&point=f8d847&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
-</div>
-
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separator" width="100%">
-</p>
-
-<!-- Current Focus with Animation -->
-<h2 align="center">🎯 Current Focus Areas</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <!-- Focus Area 1 -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Focus-Cloud%20Security-blue?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Security"/>
-  </a>
-  
-  <!-- Focus Area 2 -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Focus-AIOps%20Integration-purple?style=for-the-badge&logo=openaihttps://ibb.co/5jGLMNk&logoColor=white" alt="AIOps Integration"/>
-  </a>
-  
-  <!-- Focus Area 3 -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Focus-Web3%20Development-green?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 Development"/>
-  </a>
-  
-  <!-- Focus Area 4 -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Focus-Serverless%20Architectures-orange?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Serverless Architectures"/>
-  </a>
-</div>
-
-<br>
-
-<!-- Project Cards with Animation -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <!-- Project 1 -->
-  <a href="https://cloudguard.pro" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-Error-1337&repo=cloudguard&theme=radical&hide_border=true" alt="CloudGuard.PRO"/>
-  </a>
-  
-  <!-- Project 2 -->
-  <a href="https://collabnation.io" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-Error-1337&repo=collabnation&theme=radical&hide_border=true" alt="CollabNation"/>
-  </a>
-</div>
-
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
-</p>
-
-<!-- Latest Research Papers with Animation -->
-<h2 align="center">📝 Latest Research Papers</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <!-- This section can be dynamically updated using GitHub Actions -->
-  <!-- RESEARCH-PAPER-LIST:START -->
-  <a href="https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Paper-Chatbots%20and%20Data%20Privacy-blue?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Paper"/>
-  </a>
-  <a href="https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Paper-Enhancing%20Container%20Security%20with%20Trivy-green?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Paper"/>
-  </a>
-  <a href="https://insights2techinfo.com/defending-against-ddos-attacks-a-comprehensive-guide-to-vddos-protection-tool/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Paper-Defending%20Against%20DDoS%20Attacks-orange?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Paper"/>
-  </a>
-  <a href="https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Paper-Demystifying%20Kubernetes%20Service%20Types-purple?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Paper"/>
-  </a>
-  <a href="https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Paper-Blockchain%20and%20Federated%20Learning%20in%20Voting-red?style=flat-square&logo=googlescholar&logoColor=white" alt="Research Paper"/>
-  </a>
-  <!-- RESEARCH-PAPER-LIST:END -->
-</div>
+---
 
 <div align="center">
-  <p><a href="https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en" target="_blank">➡️ More research papers</a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+**⭐️ From [Himanshu Tiwari](https://github.com/Syntax-Error-1337) with 💙**
+
+*"Code is poetry written in logic"*
+
 </div>
-  
-
-<!-- Skill Progression with Radar Chart -->
-<h2 align="center">🔥 Skill Progression</h2>
-
-<div align="center">
-  <!-- Radar Chart for Skills -->
-  <img src="https://quickchart.io/chart/render/zm-38ab7ced-dc4a-40bc-a038-a5713597af06?f=.png" alt="Skill Progression Radar Chart" width="500" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
-
-  <!-- Legend for Skills -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
-    <a href="#ci-cd" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/CI%2FCD-95%25-%233498db?style=flat-square" alt="CI/CD"/>
-    </a>
-    <a href="#cloud-infra" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Cloud%20Infra-90%25-%232ecc71?style=flat-square" alt="Cloud Infrastructure"/>
-    </a>
-    <a href="#containerization" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Containerization-85%25-%239b59b6?style=flat-square" alt="Containerization"/>
-    </a>
-    <a href="#backend" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Backend-90%25-%23e74c3c?style=flat-square" alt="Backend"/>
-    </a>
-    <a href="#frontend" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Frontend-85%25-%23f39c12?style=flat-square" alt="Frontend"/>
-    </a>
-    <a href="#db-design" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/DB%20Design-80%25-%2316a085?style=flat-square" alt="Database Design"/>
-    </a>
-  </div>
-
-
-
-<p align="center"><i>Hover over skills in the legend to learn more (simulated via clicks on GitHub). Powered by <a href="https://quickchart.io">QuickChart</a>.</i></p>
-
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="separator" width="100%">
-</p>
-
-<!-- Get In Touch with Animation -->
-<h2 align="center">📫 Let's Connect & Build Something Amazing!</h2>
-
-<div align="center">
-  <p>I'm always open to collaborating on exciting projects and innovative ideas. Feel free to reach out for discussions on DevOps, cloud architecture, or full-stack development!</p>
-  
-  <a href="https://calendly.com/himanshutiwari/30min" target="_blank">
-    <img src="https://img.shields.io/badge/Schedule%20a%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Meeting"/>
-  </a>
-</div>
-
-<br>
-
-<!-- Fun Coding Animation at Bottom -->
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" alt="Coding Cat"/>
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500" alt="Quote"/>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer"/>
-</div>
-
-<!-- Add this to your README to automatically update your 3D contributions calendar -->
-<!--
-### 🔄 Automated Updates
-This profile is automatically updated with:
-- Latest blog posts using GitHub Actions workflow
-- 3D contribution calendar updated daily
-- Dynamic project highlights based on pinned repositories
--->
