@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Dynamic Header with Gradient Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Himanshu%20Tiwari&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Architecting%20the%20Future%20of%20Cloud%20%26%20DevOps&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Himanshu%20Tiwari&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Architecting%20the%20Future%20of%20Cloud%20and%20DevOps&descSize=20&descAlignY=55
+" width="100%"/>
 
 <!-- Animated Typing Effect -->
 <a href="https://himanshu.pro/">
