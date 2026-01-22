@@ -192,72 +192,85 @@ const himanshu = {
 
 </details>
 
+# 📚 Research & Publications
 
-<details open>
-  <summary><h2>📝 Research & Publications</h2></summary>
-  
-  <div align="center">
-  
-  | 🔬 Research Area | 📄 Title | 🔗 Link |
-  |:---|:---|:---:|
-  | **Artificial Intelligence** | Chatbots and Data Privacy: A Comprehensive Analysis | [📖 Read](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en) |
-  | **Container Security** | Best Practices with Trivy Security Scanner | [📖 Read](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en) |
-  | **Network Security** | DDoS Attack Prevention and Mitigation Strategies | [📖 Read](https://insights2techinfo.com/defending-against-ddos-attacks-a-comprehensive-guide-to-vddos-protection-tool/) |
-  | **Cloud Native** | Kubernetes Service Types and Networking Patterns | [📖 Read](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en) |
-  | **Blockchain** | Secure Voting Systems Using Blockchain Technology | [📖 Read](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en) |
-  
-  [**📚 View All Publications →**](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en)
-  
-  </div>
-  
-</details>
+<div align="center">
 
-<details open>
-  <summary><h2>🎯 Current Focus Areas</h2></summary>
-  
-  <table align="center">
-  <tr>
-  <td align="center" width="25%">
-  
-  **🔐**
-  ### Cloud Security
-  Zero-trust architectures
-  
-  ![Priority](https://img.shields.io/badge/Priority-High-success?style=flat-square)
-  
-  </td>
-  <td align="center" width="25%">
-  
-  **🤖**
-  ### AIOps
-  AI-powered monitoring
-  
-  ![Priority](https://img.shields.io/badge/Priority-High-success?style=flat-square)
-  
-  </td>
-  <td align="center" width="25%">
-  
-  **🌐**
-  ### Web3
-  Decentralized infra
-  
-  ![Priority](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square)
-  
-  </td>
-  <td align="center" width="25%">
-  
-  **⚡**
-  ### Serverless
-  Auto-scaling solutions
-  
-  ![Priority](https://img.shields.io/badge/Priority-Medium-yellow?style=flat-square)
-  
-  </td>
-  </tr>
-  </table>
-  
-</details>
+### *Advancing AI Security, Cloud Native Architecture & Privacy-Preserving Technologies*
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en)
+
+</div>
+
+---
+
+## 📚 Research & Publications
+
+<div align="center">
+<em>Advancing AI Security, Cloud Native Architecture & Privacy-Preserving Technologies</em>
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🔬 Research Domain | 📄 Publication Title | 🎯 Key Innovation | 📅 Year | 🔗 Access |
+|:---|:---|:---|:---:|:---:|
+| **🛡️ AI Security** | Advancing Vulnerability Classification with BERT: A Multi-Objective Learning Model | Multi-objective BERT for CVE classification | **2025** | [![Paper](https://img.shields.io/badge/Read-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en) |
+| **☁️ Cloud Native** | Demystifying Kubernetes Service Types: ClusterIP, NodePort, LoadBalancer & ExternalName | Comprehensive K8s networking analysis | **2023** | [![Paper](https://img.shields.io/badge/Read-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en) |
+| **🔐 Federated Learning** | Metaverse Federated Learning in Music Streaming: Revolutionizing Personalization and Privacy | Privacy-preserving ML in metaverse | **2023** | [![Paper](https://img.shields.io/badge/Read-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en) |
+| **🐳 Container Security** | Enhancing Container Security Through Automated Vulnerability Scanning and Remediation with Trivy | Automated CVE detection pipeline | **2023** | [![Paper](https://img.shields.io/badge/Read-00ADD8?style=flat&logo=docker&logoColor=white)](https://insights2techinfo.com/) |
+| **🍯 Cybersecurity** | SSH Honeypots: A Comprehensive Analysis for Cybersecurity Threat Mitigation | Threat intelligence via deception tech | **2023** | [![Paper](https://img.shields.io/badge/Read-FF6B6B?style=flat&logo=readthedocs&logoColor=white)](https://insights2techinfo.com/) |
+
+<br/>
+
+[![View All Publications](https://img.shields.io/badge/📖_Read-View_Complete_Publication_List_&_Citations-FF6B6B?style=for-the-badge&logoColor=white)](https://scholar.google.com.tw/citations?user=4vlTIxUAAAAJ&hl=en)
+
+</div>
+
+🎯 Current Focus Areas
+<div align="center">
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/000000/security-shield-green.png" width="48" height="48" alt="Security"/>
+<br><br>
+<strong>Cloud Security</strong>
+<br>
+<sub>Zero-trust architectures</sub>
+<br><br>
+<img src="https://img.shields.io/badge/●-High-00D084?style=flat-square&labelColor=1a1a1a" alt="High Priority"/>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="48" height="48" alt="AI"/>
+<br><br>
+<strong>AIOps</strong>
+<br>
+<sub>AI-powered monitoring</sub>
+<br><br>
+<img src="https://img.shields.io/badge/●-High-00D084?style=flat-square&labelColor=1a1a1a" alt="High Priority"/>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/000000/blockchain-technology.png" width="48" height="48" alt="Web3"/>
+<br><br>
+<strong>Web3</strong>
+<br>
+<sub>Decentralized infrastructure</sub>
+<br><br>
+<img src="https://img.shields.io/badge/●-Medium-FFB84D?style=flat-square&labelColor=1a1a1a" alt="Medium Priority"/>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="48" height="48" alt="Serverless"/>
+<br><br>
+<strong>Serverless</strong>
+<br>
+<sub>Auto-scaling solutions</sub>
+<br><br>
+<img src="https://img.shields.io/badge/●-Medium-FFB84D?style=flat-square&labelColor=1a1a1a" alt="Medium Priority"/>
+</td>
+</tr>
+</table>
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 Let's Connect
