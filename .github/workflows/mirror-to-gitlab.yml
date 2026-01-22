@@ -5,7 +5,7 @@ on:
     branches:
       - main
   workflow_dispatch:
-  # Optional: keep GitLab in sync even if external services update refs
+  # Optional: periodic sync
   # schedule:
   #   - cron: "0 */6 * * *"
 
@@ -25,9 +25,19 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Debug, runner and git info
+        shell: bash
+        run: |
+          set -euxo pipefail
+          echo "Runner: $(uname -a)"
+          git --version
+          echo "Ref: $GITHUB_REF"
+          echo "SHA: $GITHUB_SHA"
+
       - name: Set up SSH for GitLab
         shell: bash
         run: |
+          set -euxo pipefail
           mkdir -p ~/.ssh
           chmod 700 ~/.ssh
 
@@ -47,15 +57,51 @@ jobs:
           EOF
           chmod 600 ~/.ssh/config
 
+          echo "SSH config:"
+          cat ~/.ssh/config
+          echo "Known hosts (gitlab.com lines):"
+          grep -n "gitlab.com" ~/.ssh/known_hosts || true
+
+      - name: Debug, repository state before pushing
+        shell: bash
+        run: |
+          set -euxo pipefail
+          git status
+          git remote -v
+          git branch -vv
+          git show -1 --oneline
+          echo "Recent commits:"
+          git log --oneline -n 10
+
       - name: Add GitLab remote
+        shell: bash
         run: |
+          set -euxo pipefail
+          # In case the remote already exists from a re-run
+          git remote remove gitlab 2>/dev/null || true
           git remote add gitlab git@gitlab.com:ubiik_himanshu/ubiik_himanshu.git
+          git remote -v
 
-      - name: Push main to GitLab (mirror branch)
+      - name: Debug, SSH connectivity to GitLab
+        shell: bash
         run: |
-          git push gitlab HEAD:main --force
+          set -euxo pipefail
+          # This usually exits with 1 even on success, so do not fail the job on it
+          ssh -T git@gitlab.com || true
 
-      # Optional: push tags too (uncomment if you use tags)
-      # - name: Push tags
+      - name: Push main to GitLab (try normal, fallback to force)
+        shell: bash
+        run: |
+          set -euxo pipefail
+          echo "Pushing HEAD -> main on GitLab (non-force first)..."
+          git push -v gitlab HEAD:main || {
+            echo "Non-force push failed, retrying with --force..."
+            git push -v gitlab HEAD:main --force
+          }
+
+      # Optional: mirror tags too (uncomment if needed)
+      # - name: Push tags (try normal, fallback to force)
+      #   shell: bash
       #   run: |
-      #     git push gitlab --tags --force
+      #     set -euxo pipefail
+      #     git push -v gitlab --tags || git push -v gitlab --tags --force
