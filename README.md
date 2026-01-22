@@ -162,28 +162,36 @@ const himanshu = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <details open> 
   <summary><h2>📌 Pinned Projects</h2></summary>
-  
-  <div align="center">
-  
-  <a href="https://github.com/Syntax-Error-1337/CloudGuard-PRO">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-Error-1337&repo=CloudGuard-PRO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="CloudGuard.PRO"/>
-  </a>
-  <a href="https://github.com/Syntax-Error-1337/CollabNation">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Syntax-Error-1337&repo=CollabNation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="CollabNation"/>
-  </a>
-  
-  </div>
-  
+
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Syntax-Error-1337/GeminiDeMark">
+          <img 
+            src="https://github-readme-stats-inky-three-20.vercel.app/api/pin/?username=Syntax-Error-1337&repo=GeminiDeMark&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10"
+            alt="GeminiDeMark" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Syntax-Error-1337/SchemaForge">
+          <img 
+            src="https://github-readme-stats-inky-three-20.vercel.app/api/pin/?username=Syntax-Error-1337&repo=SchemaForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10"
+            alt="SchemaForge" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
   <p align="center">
     <a href="https://github.com/Syntax-Error-1337?tab=repositories">
-      <img src="https://img.shields.io/badge/-More%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/More%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
-  
+
 </details>
+
 
 <details open>
   <summary><h2>📝 Research & Publications</h2></summary>
