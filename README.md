@@ -92,17 +92,16 @@ const himanshu = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 My Contributions 🐍
+## 🔥 My Contributions 🔥
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syntax-Error-1337/Syntax-Error-1337/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syntax-Error-1337/Syntax-Error-1337/output/github-contribution-grid-snake.svg">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Syntax-Error-1337/Syntax-Error-1337/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/Syntax-Error-1337/Syntax-Error-1337/main/profile-3d-contrib/profile-night-rainbow.svg"
+    alt="3D GitHub Contribution Graph"
+    width="100%"
+  />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## ⚡ GitHub Stats ⚡
@@ -142,9 +141,7 @@ const himanshu = {
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syntax-Error-1337&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph"/>
-</div>
+[![Aactivity graph](https://github-readme-activity-graph.vercel.app/graph?username=Syntax-Error-1337&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
