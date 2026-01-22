@@ -104,14 +104,41 @@ const himanshu = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 ## ⚡ GitHub Stats ⚡
 
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats-omega-seven.vercel.app?user=Syntax-Error-1337&theme=radical)](https://git.io/streak-stats" alt="GitHub Streak"/>
-  <img width="46%" src="https://github-readme-stats-inky-three-20.vercel.app/api?username=Syntax-Error-1337&rank_icon=github&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-Error-1337&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="Top Languages"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img width="500"
+           src="https://github-readme-streak-stats-omega-seven.vercel.app?user=Syntax-Error-1337&theme=radical&hide_border=true"
+           alt="GitHub Streak" />
+    </td>
+    <td>
+      <img width="500"
+           src="https://github-readme-stats-inky-three-20.vercel.app/api?username=Syntax-Error-1337&rank_icon=github&show_icons=true&theme=radical&hide_border=true&card_width=500"
+           alt="GitHub Stats" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img width="500"
+           src="https://github-readme-stats-inky-three-20.vercel.app/api/top-langs/?username=Syntax-Error-1337&layout=compact&langs_count=6&theme=radical&hide_border=true&card_width=500"
+           alt="Top Languages" />
+    </td>
+    <td>
+      <img width="500"
+           src="https://github-readme-stats-inky-three-20.vercel.app/api?username=Syntax-Error-1337&hide=commits,prs,issues,contribs&show_icons=true&theme=radical&hide_border=true&card_width=500"
+           alt="Compact GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 <br/>
 
