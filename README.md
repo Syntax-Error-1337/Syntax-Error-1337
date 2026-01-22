@@ -69,29 +69,39 @@ const himanshu = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚒️ Tech Stack ⚒️
+## ⚒️ Tech Stack
 
-<div align="center">
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,java,c,cpp,html,css&perline=9" />
+</details>
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,go,java,c,cpp,html,css&perline=9&theme=dark" />
+<details open>
+<summary><b>🚀 Frameworks & Libraries</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,tailwind,flutter&perline=7" />
+</details>
 
-### Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,tailwind,flutter&perline=9&theme=dark" />
+<details open>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,jenkins,gitlab&perline=9" />
+</details>
 
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,jenkins,gitlab&perline=9&theme=dark" />
+<details open>
+<summary><b>🗄️ Databases & Infrastructure</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,nginx,rabbitmq,elasticsearch&perline=7" />
+</details>
 
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,nginx,rabbitmq,elasticsearch&perline=9&theme=dark" />
+<details open>
+<summary><b>📊 Monitoring & Tools</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,vscode,linux,postman&perline=7" />
+</details>
 
-### Monitoring & Others
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,vscode,linux,postman&perline=9&theme=dark" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+---
 ## 🔥 My Contributions 🔥
 
 <div align="center">
