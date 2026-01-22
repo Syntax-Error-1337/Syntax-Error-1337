@@ -1,0 +1,61 @@
+name: Mirror to GitLab
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  # Optional: keep GitLab in sync even if external services update refs
+  # schedule:
+  #   - cron: "0 */6 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: mirror-to-gitlab
+  cancel-in-progress: true
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up SSH for GitLab
+        shell: bash
+        run: |
+          mkdir -p ~/.ssh
+          chmod 700 ~/.ssh
+
+          echo "${{ secrets.GITLAB_SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+
+          ssh-keyscan -H gitlab.com >> ~/.ssh/known_hosts
+          chmod 644 ~/.ssh/known_hosts
+
+          cat > ~/.ssh/config << 'EOF'
+          Host gitlab.com
+            HostName gitlab.com
+            User git
+            IdentityFile ~/.ssh/id_ed25519
+            IdentitiesOnly yes
+            StrictHostKeyChecking yes
+          EOF
+          chmod 600 ~/.ssh/config
+
+      - name: Add GitLab remote
+        run: |
+          git remote add gitlab git@gitlab.com:ubiik_himanshu/ubiik_himanshu.git
+
+      - name: Push main to GitLab (mirror branch)
+        run: |
+          git push gitlab HEAD:main --force
+
+      # Optional: push tags too (uncomment if you use tags)
+      # - name: Push tags
+      #   run: |
+      #     git push gitlab --tags --force
