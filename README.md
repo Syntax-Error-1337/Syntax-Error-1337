@@ -107,7 +107,7 @@ const himanshu = {
 ## ⚡ GitHub Stats ⚡
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Syntax-Error-1337&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=10" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-streak-stats-omega-seven.vercel.app?user=Syntax-Error-1337&theme=radical)](https://git.io/streak-stats" alt="GitHub Streak"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Syntax-Error-1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
   <br/>
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syntax-Error-1337&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="Top Languages"/>
